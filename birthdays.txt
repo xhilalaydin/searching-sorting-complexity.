@@ -1,0 +1,13 @@
+Batuhan Karakus;05;03
+Elif Senturk;01;25
+Bora Sonmez;11;03
+Alara Zengin;08;25
+Yasemin Cicek;12;21
+Mert Ali;04;06
+Emre Yalcin;12;21
+Deniz Kara;11;03
+Kamil Topal;11;15
+Irem Su Basar;10;02
+Ozge Burak;03;01
+Alara Zengin;08;25
+Yaprak Kosar;04;06
